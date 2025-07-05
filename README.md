@@ -1,2 +1,2 @@
 # Twitter-Sentiment-Analysis
-Twitter Sentiment Analysis
+Developed a Twitter Sentiment Analysis model to classify tweets as positive or negative using Natural Language Processing (NLP) techniques. Collected and processed 20,000+ tweets using the Twitter API and cleaned the text by removing mentions, hashtags, URLs, emojis, and applying tokenization and stemming. Converted tweets into numerical form using TF-IDF vectorization with unigrams and bigrams. Trained and evaluated multiple models including Logistic Regression, Naive Bayes, and Support Vector Machine, achieving up to 89% accuracy. Performance was validated using confusion matrix, precision-recall scores, and ROC AUC, ensuring robustness for real-world sentiment detection across diverse tweet samples
